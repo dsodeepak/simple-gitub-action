@@ -1,4 +1,4 @@
-name: OWASP ZAP integration with Github Actions
+name: Github and OWASP ZAP integration
 
 on: [push]
 
